@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/novohool/novohool/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [novohool/snk](https://github.com/novohool/snk)_
+_generated with [novohool/snk](https://github.com/novohool/novohool)_
 
 <!--
 **novohool/novohool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
