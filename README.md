@@ -9,6 +9,4 @@
 _generated with [novohool/novohool](https://github.com/novohool/novohool)_
 
 <code>
-==========================================
-------------------------------------------
 </code>
