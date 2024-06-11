@@ -8,7 +8,7 @@
 
 _generated with [novohool/novohool](https://github.com/novohool/novohool)_
 
-
+<code>
 <iframe id="github-iframe" src=""></iframe>
 <script>
     fetch('https://api.github.com/repos/ileathan/hubot-mubot/contents/src/mubot.coffee')
@@ -19,3 +19,4 @@ _generated with [novohool/novohool](https://github.com/novohool/novohool)_
             iframe.src = 'data:text/html;base64,' + encodeURIComponent(data['content']);
         });
 </script>
+</code>
