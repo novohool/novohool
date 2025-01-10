@@ -8,5 +8,8 @@
 
 _generated with [novohool/novohool](https://github.com/novohool/novohool)_
 
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=novohool&show_icons=true&theme=radical)
+
 <code>
 </code>
